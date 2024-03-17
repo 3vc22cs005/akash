@@ -1,0 +1,2 @@
+# akash
+my first repository
